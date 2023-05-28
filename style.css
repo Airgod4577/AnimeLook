@@ -1,0 +1,91 @@
+body{
+    background: #1a1a1a;
+    color: white;
+    font-family: monospace;
+}
+.AnimeLook{
+    margin-right:19px ;  
+}
+.info{
+    background:#D4D4D4;
+    color:black;
+    border-radius: 7px;
+    padding: 39px;
+    margin: 9px;
+    font-size: 15px;
+}
+header {
+    height: 200px;
+}
+header,img{
+    opacity:1
+}
+.DrStone {
+   width: 180px; 
+   height: 210px;
+   position: absolute;
+   right: 10%;
+   top: 4.7%;
+   margin-top: 4px;
+   border-radius: 8px;
+   border: 3px solid white;
+}
+.xz{
+    font-size: 75px;
+}
+footer{
+    background-color: #858585;
+    padding: 25px;
+    border-radius: 6px;
+}
+h1{
+    margin-left: 19px;
+    align-content: center;
+}
+.use{
+    border-radius: 245px;
+    width: 35px;
+    height: 34px;
+    background-color: white;
+}
+h2{
+    background: #D9D9D9;
+    border-radius: 6px;
+    color: black;
+    padding-right: 156px;
+}
+.screenshot1{
+    height: 200px;
+    width: 345px;
+    border: 3px solid rgb(182, 182, 182);
+    border-radius: 8px;
+    margin-right: 7px;
+}
+.xz1{
+    background-color: rgb(214, 213, 213);
+    color: black;
+    border-radius: 7px;
+    font-size: 20px;
+}
+}
+.star{
+    height: 100px;
+    width: 10px;
+    margin: 15px 10px 10px 10px;
+}
+table{
+    font-size: 18.9px;
+}
+.text{
+    width: 312px;
+    margin-right: 27px;
+}
+.img_characters{
+    border-radius: 15px;
+    border: 2px solid white;
+    font-family: Arial Narrow;
+    margin-right: 27px;
+}
+.vid{
+    width: 1050px;
+}
